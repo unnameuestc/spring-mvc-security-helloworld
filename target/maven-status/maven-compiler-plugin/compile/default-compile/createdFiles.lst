@@ -1,0 +1,13 @@
+com\wzhang\dao\UserDao.class
+com\wzhang\domain\RoleBean.class
+com\wzhang\security\service\CustomAccessDecisionManager.class
+com\wzhang\dao\ResourceDao.class
+com\wzhang\dao\impl\UserDaoImpl.class
+com\wzhang\web\controller\HelloController.class
+com\wzhang\security\service\CustomUserDetailsService.class
+com\wzhang\security\service\CustomFilterInvocationSecurityMetadataSource.class
+com\wzhang\dao\impl\ResourceDaoImpl.class
+com\wzhang\domain\UserBean.class
+com\wzhang\web\filter\CustomFilterSecurityInterceptor.class
+com\wzhang\common\RoleConstants.class
+com\wzhang\security\service\CustomUserDetails.class
